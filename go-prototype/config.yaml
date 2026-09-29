@@ -1,0 +1,10 @@
+input_folder: "./inputs"
+output_folder: "./outputs"
+
+llm:
+  base_url: "http://localhost:1234/v1"
+  model_name: "lm-studio" # The identifier shown in LM Studio (can be any string)
+  temperature: 0.1         # Low temp for deterministic extraction
+
+# Timeout for API calls in seconds
+timeout_seconds: 120

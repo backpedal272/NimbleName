@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Xcode per-user state and build output
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# Release artifacts (archives, DMGs, App Store exports)
+NimbleName/dist/
+
+# Go prototype binary and scratch folders
+go-prototype/nameflow
+go-prototype/inputs/
+go-prototype/outputs/
+
+# Claude Code local settings
+.claude/settings.local.json
