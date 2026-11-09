@@ -29,6 +29,10 @@ Supported files: PDF, JPG, PNG, HEIC, TIFF and WebP.
 - A Mac with Apple Silicon running macOS 26 or later
 - A local LLM server with a vision model, such as oMLX, [LM Studio](https://lmstudio.ai) or [Ollama](https://ollama.com). Any OpenAI-compatible endpoint works. Set its address and model in Settings.
 
+## Install
+
+Nimble Name is in beta. [Join the beta on TestFlight](https://testflight.apple.com/join/u4wDxvSU). It's free. More on [nimbleapps.ch](https://nimbleapps.ch/nimblename/index.html).
+
 ## Build from source
 
 You need Xcode.
